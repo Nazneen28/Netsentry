@@ -1,0 +1,4 @@
+netsentry.log
+netsentry_dashboard.html
+__pycache__/
+*.pyc
